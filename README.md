@@ -1,6 +1,6 @@
 # Introduction to deep learning - classification
 Excercises in Deep learning for polish students conducted in winter 2020/21 (polish).
-With cooperation with [Wroclaw University of Technology](https://pwr.edu.pl/) and [OPI](https://bip2.opi.org.pl/).
+With cooperation with [Wroclaw University of Technology](https://pwr.edu.pl/) and [OPI](https://bip2.opi.org.pl/) as a part of [NAVOICA project](https://navoica.pl/dla-dzieci-i-mlodziezy).
 This repository based on [materials from beginner's workshop for SJSU ML Club](https://github.com/mlatsjsu/workshop-chihuahua-vs-muffin) and [DETR](https://github.com/facebookresearch/detr).
 
 All materials are prepared in polish.
@@ -24,7 +24,7 @@ Następnie ze strony [pytorcha](https://pytorch.org/get-started/locally/) wybier
 - pytorcha w wersji 1.7.1 na cpu
 - torchvision w wersji 0.8.2 na cpu
 
-## 4: Praca w interaktywnym notatniku jupytera
+## 3: Praca w interaktywnym notatniku jupytera
 Pobierz (lub sklonuj) bieżące repozytorium i w terminalu uruchom jupyter notebook.
 Następnie wybierz notatnik 'Sztuczna_inteligencja_w_świecie_rzeczywistym.ipynb'.
 
